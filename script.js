@@ -14,7 +14,7 @@ function somar() {
     
     
 
-    mensagem = "Os números " + numeroa + " e " + numerob
+    mensagem = "Os números  " + numeroa + " e " + numerob
 
     numeroa == numerob ? mensagem = mensagem +  " são iguais " : mensagem = mensagem +  " são diferentes "
     mensagem = mensagem + ", sua soma é " + resultado
